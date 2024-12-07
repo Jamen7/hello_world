@@ -3,3 +3,9 @@ pull -> C
 commit -> A
 remote -> E
 repo -> D
+
+Office chat quiz:
+
+... can you **publish** your **repo** to **GitHub** so that I can **clone** it...
+it's already on **GitHub**. But give me until noon to **push** my latest **commits**.
+I'll **clone** the repo now to look. At noon, I'll **pull** your more recent **commits**!
