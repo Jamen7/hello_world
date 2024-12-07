@@ -1,0 +1,5 @@
+push -> B
+pull -> C
+commit -> A
+remote -> E
+repo -> D
